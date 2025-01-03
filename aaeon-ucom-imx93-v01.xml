@@ -43,7 +43,7 @@
   <project name="meta-matter" remote="imx" path="sources/meta-matter" revision="refs/tags/rel_imx_6.6.23-2.0.0" upstream="imx_matter_2024_q1-post" />
   <project name="meta-nxp-demo-experience" remote="imx-support" path="sources/meta-nxp-demo-experience" revision="refs/tags/rel_imx_6.6.23_2.0.0" upstream="scarthgap-6.6.23-2.0.0" />
 
-  <project name="meta-nxpimx93" path="sources/meta-nxpimx93" remote="meta-nxpimx93" revision="4c0576207a25f9836a8b64ab556751007d3038dd" upstream="main">
+  <project name="meta-nxpimx93" path="sources/meta-nxpimx93" remote="meta-nxpimx93" revision="f9534403696f542847a0289fdfece314ec32cc69" upstream="main">
      <linkfile dest="aaeon-imx-setup-release.sh" src="conf/aaeon-imx-setup-release.sh"/>
   </project>
 
